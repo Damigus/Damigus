@@ -38,7 +38,6 @@
 </div>
 
 
-<br>
 <h3 align="left">About my GitHub:</h3>
 <h1 align="center">
 <a href="https://github.com/Damigus">
