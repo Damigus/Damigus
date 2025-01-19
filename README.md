@@ -24,7 +24,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
 <br>
-
+<h3 align="left">About my Github:</h3>
 <h1 align="center">
 <a href="https://github.com/Damigus">
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388&card_width=100" />
