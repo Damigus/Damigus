@@ -25,9 +25,9 @@
 
 <h1 align="center">
 <a href="https://github.com/Damigus">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388" />
 </a>
-<a href=https://github.com/Damigus/Bookstore-Api">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damigus&repo=Bookstore-Api&theme=dark&show_icons=true&icon_color=453388" />
+<a href=https://github.com/Damigus/Bookstore-Api>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damigus&repo=Bookstore-Api&theme=dark&show_icons=true&icon_color=453388" />
 </a>
 </h1>
