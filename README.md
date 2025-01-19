@@ -25,10 +25,10 @@
 
 <br>
 <h1 align="center">
-<a href="https://github.com/Damigus" style="margin-right: 20">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388" />
+<a href="https://github.com/Damigus" style="margin-right: 5">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388" />
 </a>
-<a href=https://github.com/Damigus/Bookstore-Api style="margin-left: 20">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damigus&repo=Bookstore-Api&theme=dark&show_icons=true&icon_color=453388" />
+<a href=https://github.com/Damigus/Bookstore-Api style="margin-left: 5">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damigus&repo=Bookstore-Api&theme=dark&show_icons=true&icon_color=453388" />
 </a>
 </h1>
