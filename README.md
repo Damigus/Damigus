@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Node, Javascript, and Web Development**
 
-- 📫 How to reach me **damianguz2004@wp.pl**
+- 📫 How to reach me **damianguz333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
