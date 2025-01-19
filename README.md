@@ -1,19 +1,14 @@
-Cześć, jestem Damian! 👋
-Jestem pasjonatem programowania i technologii, a GitHub to moje miejsce do dzielenia się projektami, nauką i eksperymentami. Pracuję głównie w Pythonie, JavaScriptcie i C#, ale interesuję się również web developmentem oraz bazami danych. 💡
+Witaj, nazywam się Damian. 👋
+Jestem programistą z doświadczeniem w tworzeniu aplikacji webowych, systemów backendowych oraz rozwiązań związanych z automatyzacją. Moje główne technologie to Python, JavaScript (React, Node.js) i SQL, ale chętnie sięgam po nowe narzędzia w zależności od wymagań projektu. 📊
 
-🔧 Co tworzę?
-Projekty open-source
-Aplikacje webowe i mobilne
-Algorytmy i narzędzia programistyczne
-Eksperymenty z machine learning
+🔍 Specjalizacje:
 
-🎯 Moje cele:
-Ciągłe doskonalenie umiejętności
-Dzielenie się wiedzą i współpraca z innymi
-Tworzenie wartościowych narzędzi i aplikacji
+Backend development i API
+Praca z bazami danych (MySQL, PostgreSQL)
+Machine learning i analiza danych
+💬 Chętnie współpracuję nad:
 
-🌍 Znajdziesz mnie również na:
-damianguz2004@wp.pl
-
-Zachęcam do współpracy i dołączenia do moich projektów! 😊
-
+Open-source'owymi projektami
+Aplikacjami z zakresu sztucznej inteligencji
+Automatyzacją procesów i rozwiązywaniem problemów technicznych
+Celem moich repozytoriów jest tworzenie funkcjonalnych i wydajnych rozwiązań, które przydadzą się nie tylko mnie, ale również innym. Jeśli masz pytania lub propozycje współpracy, pisz! 🤝
