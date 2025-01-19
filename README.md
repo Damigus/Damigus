@@ -1,15 +1,15 @@
-![Header](https://github.com/Damigus/Damigus/blob/a3df296e1b060a5383401574f80c6cce16c167da/github-header-image.png)
+![Header](https://github.com/Damigus/Damigus/blob/17a4a63dd11233ea8373b64a78b659cc55e836c9/github-header-image.png)
 <h3 align="center">A passionate forthcoming software developer from Poland</h3>
 <h4 align="center">I am currently studying as an IT specialist,</h4>
 <h4 align="center">Therefore I am doing my best to keep on improving,</h4>
-<h4 align="center">To become the best version of myself.</h4>
+<h4 align="center">To become a fullstack developer in the future.</h4>
 
 <div style="display: flex; align-items: center;">
   <img align="right" alt="pikachu" width="400" src="https://github.com/Damigus/Damigus/blob/39077e67c004fe4a2a7ce236e6a5a4311f7f900f/pikachu">
   <div>
     <h3 align="left">About me:</h3>
     <ul>
-      <li>🌱 I’m currently learning <strong>Machine Learning, Node, Javascript, and Web Development</strong></li>
+      <li>🌱 I’m currently learning <strong>Python, Fiask, Django, Javascript and Nodejs</strong></li>
       <li>📫 How to reach me <strong>damianguz333@gmail.com</strong></li>
       <li>📘 Favourite quote: <strong>,,There's a time and place for everything, but not now."</strong></li>
     </ul>
@@ -22,6 +22,7 @@
     <p align="left">
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/Damigus/Damigus/blob/85b39ea231968bcd5a284bf076403f1e8e4c15e6/flask.png" alt="fiask" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
