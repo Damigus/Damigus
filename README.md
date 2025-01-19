@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **damianguz333@gmail.com**
 
+- 📘 Favourite quote:  **,,There's a time and place for everything, but not now."**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/Damian061314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damian guz" height="30" width="40" /></a>
