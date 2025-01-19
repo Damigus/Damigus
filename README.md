@@ -24,11 +24,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
 <br>
-<h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388" />
+<h1 align="center">
+<a href="https://github.com/Damigus">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=damigus&theme=dark&show_icons=true&icon_color=453388" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damigus&repo=Bookstore-Api&theme=dark&show_icons=true&icon_color=453388" />
+<a href=https://github.com/Damigus/Bookstore-Api">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damigus&repo=Bookstore-Api&theme=dark&show_icons=true&icon_color=453388" />
 </a>
 </h1>
