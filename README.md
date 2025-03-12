@@ -9,7 +9,7 @@
   <div>
     <h3 align="left">About me:</h3>
     <ul>
-      <li>🌱 I’m currently learning <strong>Python, Fiask, Django, Javascript and Nodejs</strong></li>
+      <li>🌱 I’m currently learning <strong>C#, Flask, Jinja2, Javascript and Vue</strong></li>
       <li>📫 How to reach me <strong>damianguz333@gmail.com</strong></li>
       <li>📘 Favourite quote: <strong>,,There's a time and place for everything, but not now."</strong></li>
     </ul>
@@ -27,7 +27,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://nodejs.org/en/about/branding" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/Damigus/Damigus/blob/85b39ea231968bcd5a284bf076403f1e8e4c15e6/flask.png" alt="fiask" width="40" height="40"/> </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+      <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/icons2/3912/PNG/512/jinja_logo_icon_247964.png" alt="Jinja2" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
